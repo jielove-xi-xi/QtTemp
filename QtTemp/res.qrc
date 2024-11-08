@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>resource/InitDB.svg</file>
+        <file>resource/LOADDATA.svg</file>
+        <file>resource/select.svg</file>
+    </qresource>
+</RCC>
