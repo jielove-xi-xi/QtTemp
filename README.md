@@ -23,7 +23,7 @@ CREATE TABLE TEMP (
     )
 ); //将地区和时间戳作为复合主键，因为同个地区，同一分钟不会有两条记录
 ```
-
+![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
 
 
 # 二、项目介绍
